@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Coder0100001
+- 👋 Hi, I’m @Coder0100001 or @DiBiaseProductions
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on A virtual assistant
-- 📫 How to reach me bradyndibiase08@gmail.com
+- 🌱 I’m currently learning everything
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me @DiBiaseProductions on github
 
 <!---
 --->
